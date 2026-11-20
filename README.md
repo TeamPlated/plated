@@ -72,11 +72,11 @@
         <li><a href="#contact">Contact</a></li>
         <li><a href="#acknowledgements">Acknowledgements</a></li>
     </ol>
-</detais>
+</details>
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project">About The Project</h2>
-<p>There are many different utilities for Roblox Groups, however there aren't enough that cater specifically to Ro-Restaurants, so we have made <b>Plated<b>, a group management platform for Ro-Restaurants, so you can organise everything properly.</p>
+<p>There are many different utilities for Roblox Groups, however there aren't enough that cater specifically to Ro-Restaurants, so we have made <b>Plated</b>, a group management platform for Ro-Restaurants, so you can organise everything properly.</p>
 
 <h3 id="features">Features</h3>
 <p>Plated features many tools for your group, including the following.</p>
@@ -144,7 +144,7 @@
 <p>This project is licensed under the MIT License. See LICENSE.txt for more information.</p>
 
 <!-- CONTACT -->
-<h2 id="contact">
+<h2 id="contact">Contact</h2>
 <p>To contact the maintainers, join our Discord Server or email [henry@thehenry.dev](mailto:henry@thehenry.dev).</p>
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -154,4 +154,4 @@
     <li>Shields.io Badges</li>
 </ul>
 
-<p align="center"><i>Made with ❤️ by TeamPlated and Contributors.<i></p>
+<p align="center"><i>Made with ❤️ by TeamPlated and Contributors.</i></p>
