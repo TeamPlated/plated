@@ -117,7 +117,7 @@
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTeamPlated%2Fplated"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 
 <h3 id="self-hosting">Self Hosting</h3>
-<p>Self-Hosting is the most unrestricted way to host Plated, with total control over how you host Plated, however it is the most difficult to set up. To set up Plated locally, please follow our documentation at [docs.plated.thehenry.dev](https://docs.plated.thehenry.dev).</p>
+<p>Self-Hosting is the most unrestricted way to host Plated, with total control over how you host Plated, however it is the most difficult to set up. To set up Plated locally, please follow our documentation at <a href="https://docs.plated/thehenry.dev">docs.plated.thehenry.dev</a>.</p>
 
 <!-- USAGE EXAMPLES -->
 <h2 id="usage">Usage</h2>
@@ -128,7 +128,7 @@
 
 <!-- ROADMAP -->
 <h2 id="roadmap">Roadmap</h2>
-<p>You can view our public roadmap for Plated at [feedback.plated.thehenry.dev](https://feedback.plated.thehenry.dev). It contains our roadmap, and also feature requests from our GitHub issues.
+<p>You can view our public roadmap for Plated at <a href="https://feedback.plated.thehenry.dev">feedback.plated.thehenry.dev</a>. It contains our roadmap, and also feature requests from our GitHub issues.
 
 <!-- CONTRIBUTING -->
 <h2 id="contributing">Contributing</h2>
@@ -145,7 +145,7 @@
 
 <!-- CONTACT -->
 <h2 id="contact">Contact</h2>
-<p>To contact the maintainers, join our Discord Server or email [henry@thehenry.dev](mailto:henry@thehenry.dev).</p>
+<p>To contact the maintainers, join our Discord Server or email <a href="mailto:henry@thehenry.dev">henry@thehenry.dev</a>.</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 <p>Credits to the following websites.</p>
