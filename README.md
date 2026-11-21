@@ -148,6 +148,7 @@
 <p>To contact the maintainers, join our Discord Server or email <a href="mailto:henry@thehenry.dev">henry@thehenry.dev</a>.</p>
 
 <!-- ACKNOWLEDGEMENTS -->
+<h2 id="acknowledgements">Acknowledgements</h2>
 <p>Credits to the following websites.</p>
 <ul>
     <li>Choose an Open Source License</li>
